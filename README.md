@@ -124,7 +124,7 @@ This Justifies that higher prices lead to higher Cancellations.
 
 3. January and winter months should have adequate marketing campaigns with reasonable prices, as the cancellation levels are highest recorded for these months.
 
-4. Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction and generate higher earnings to the hotels.
+4. Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction by giving them a WOW experience and generate higher earnings to the hotels.
 
 ---
 
