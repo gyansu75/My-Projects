@@ -10,11 +10,11 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ---
 ## Assumptions
-1. No unusual occurences between 2015 and 2017 will have a substantial impact on the data used. /n
-2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner. /n
-3. There are no unanticipated negatives to the Hotel employing any advised technique. /n
-4. The hotels are not currently using any of the suggested solutions. /n
-5. The biggest factor affecting the effectiveness of earning income is booking cancellations. /n
+1. No unusual occurences between 2015 and 2017 will have a substantial impact on the data used. 
+2. The information is still current and can be used to analyze a hotel's possible plans in an efficient manner.
+3. There are no unanticipated negatives to the Hotel employing any advised technique. 
+4. The hotels are not currently using any of the suggested solutions. 
+5. The biggest factor affecting the effectiveness of earning income is booking cancellations.
 6. Cancellations result in vacant rooms for the blocked length of time.
 7. Clients make hotel reservations the same year they make cancellations
 
