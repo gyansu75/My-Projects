@@ -2,7 +2,7 @@
 
 # [Project 1: 🏨 Hotel Booking & Cancellation Analysis]()
 
-This is my first project I did for my Analytics Protfolio, where I build a recommendation system for a Hotel Bookings and Cancelations dataset.
+This is my first project I did for my Analytics Protfolio, where I build a recommendation system for Hotel Bookings and Cancelations dataset.
 
 ## 📌 Project Overview
 In recent years,City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result,including fewer revenues and less than ideal hotel room use.Consequently, lowering cancellation rates is both hotels' primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
@@ -93,6 +93,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 5.This graph shows that extreme price levels lead to higher cancellations and Lower price levels encourage less number of cancellations. Therefore, cost is major factor while analyzing the hotel booking cancellations.
 
 6. Now let us find out, clients of which country are most likely to cancel their bookings.The Top country is the Pie Chart is Portugal with the highest number of cancellations.
+
 ![Alt Text](plot_7.png)
 
 7.Lets check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?
@@ -112,29 +113,24 @@ This Justifies that higher prices lead to higher Cancellations.
 ---
 
 ## 🧠 Conclusion & Recommendations
-- Highlight what the hotel management can do to reduce cancellations.
-- Suggest data-driven improvements (e.g., incentives for early bookings, flexible pricing, or deposit policies).
+
+1.Cancellation rates rise with rise in price levels. To tackle this problem, hotels need to work on the pricing strategies and try to lower the rates on specific days or even give discount benefits to increase customer retention.
+2.As the ratio of canceled to not canceled of Resort hotels is higher than City hotels on specific days so it is suggested that hotels should keep reasonable prices on holidays and weekends in order to reduce cancellations which will inturn increase the customer satisfaction.
+3.January and winter months should have adequate marketing campaigns with reasonable prices, as the cancellation levels are highest recorded for these months.
+4.Hotels in Portugal must increase quality of their services and keep it up-to-date with the taste of people living there by conducting surveys and utilizing feedback from clients. This will increase customer satisfaction and generate higher earnings to the hotels.
 
 ---
 
 ## 💻 Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Scikit-learn (if predictive modeling is included)
-
+  
 ---
 
-## 📁 Project Structure
-
-
-
-
-
-
 ## ✍️ Author
-**Your Name**  
+**Gaurav Gyansu**  
 *Data Analytics Portfolio Project*  
-📧 [your.email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 [gyansu75@gmail.com] | 🔗 [LinkedIn](www.linkedin.com/in/gaurav-gyansu-66b1121b9)
 
 ---
 
