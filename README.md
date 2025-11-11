@@ -1,120 +1,82 @@
-# Gaurav's Portfolio
-
-# [Project 1: Analytics Jobs Around the World Analysis](https://github.com/gyansu75/My-Projects/blob/main/DASH%201.pbix)
-
-This is a project I did for Analytics Protfolio, where I build a recommendation system for a movies dataset.
-
-* Data was taken from the movielens dataset 
-* The model uses both; content-based filtering techniques and collaborative filtering techniques. 
-* Algorithms Used : K-Nearest Neightbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatining least Square (ALS) 
-* Optimised the SVD & ALS model. 
-* The Project Write-up is published on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
-
-## Overview Of The Singular Value Decomposition Architecture  
-![]() 
-## Popular Movie Genres  
-![]()
-
 # 📊 Gaurav's Analytics Portfolio
 
-Welcome to my **Data Analytics Portfolio!**  
-This repository showcases my projects, skills, and approaches in **data cleaning, analysis, visualization, and business insights** using tools like **Python, SQL, Excel, Power BI, and Tableau**.
+# [Project 1: 🏨 Hotel Booking & Cancellation Analysi]()
+
+This is my first project I did for my Analytics Protfolio, where I build a recommendation system for a Hotel Bookings and Cancelations dataset.
+
+## 📌 Project Overview
 
 ---
 
-## 🧠 About Me
-
-Hi! I'm **[Your Name]**, a data enthusiast passionate about transforming raw data into meaningful insights.  
-I enjoy exploring real-world datasets, identifying trends, and telling stories through visuals and data-driven reports.
-
-📍 Location: [Your City, Country]  
-📧 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn URL]  
-🌐 Portfolio Website: [Your Website, if any]
+## 🎯 Problem Statement
+- What are the key factors that lead to hotel booking cancellations?
+- How do customer demographics, booking channels, and lead time affect cancellations?
+- Can we predict the likelihood of a booking being canceled?
 
 ---
 
-## 🧰 Tools & Technologies
-
-| Category | Tools / Skills |
-|-----------|----------------|
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| **Data Visualization** | Power BI, Tableau, Matplotlib, Excel |
-| **Databases** | MySQL, PostgreSQL, SQLite |
-| **Excel Skills** | Pivot Tables, Dashboards, Lookup Functions |
-| **Other** | Statistics, Data Cleaning, EDA, Reporting |
-
----
-
-## 📁 Projects
-
-### 1. 🛒 Sales Performance Dashboard
-**Tools:** Power BI, Excel  
-- Analyzed monthly and regional sales data to track KPIs.  
-- Built an interactive Power BI dashboard showing sales trends, revenue, and top products.  
-- [View Project Folder →](./Sales-Performance-Dashboard)
+## 📊 Data Identification
+**Dataset:** `hotel_bookings.csv`  
+**Key Columns Include:**
+- Hotel type (`City Hotel`, `Resort Hotel`)
+- Lead time
+- Booking and arrival dates
+- Number of adults, children, babies
+- Market segment and distribution channel
+- Deposit type and customer type
+- Average Daily Rate (ADR)
+- Special requests and previous cancellations
 
 ---
 
-### 2. 💬 Customer Churn Analysis
-**Tools:** Python, Pandas, Matplotlib  
-- Cleaned telecom customer data and identified churn patterns.  
-- Built visualizations to show factors influencing customer retention.  
-- [View Project Folder →](./Customer-Churn-Analysis)
+## 🧹 Data Exploration & Cleaning
+### Steps:
+1. **Import and Inspect Data**
+   - Check dataset shape, column types, and sample records.
+2. **Handle Missing Values**
+   - Identify and impute or drop missing data appropriately.
+3. **Remove Duplicates & Outliers**
+   - Eliminate redundant rows and handle extreme ADR or lead time values.
+4. **Feature Formatting**
+   - Convert date columns, encode categorical variables, and create derived features if necessary.
 
 ---
 
-### 3. 🌍 Global COVID-19 Data Analysis
-**Tools:** SQL, Tableau  
-- Queried large datasets to find country-wise cases and recovery rates.  
-- Created a Tableau dashboard for interactive data storytelling.  
-- [View Project Folder →](./COVID19-Data-Analysis)
+## 🔍 Data Analysis & Insights
+### Exploratory Analysis:
+- Booking and cancellation distribution.
+- Cancellations by hotel type, month, and lead time.
+- Impact of deposit type and market segment.
+- Relationship between special requests and cancellations.
+
+### Visualizations:
+- Bar plots, pie charts, and histograms.
+- Correlation heatmaps.
+- Trend lines for booking patterns over time.
 
 ---
 
-### 4. 🏦 Financial Data Insights
-**Tools:** Excel, Power BI  
-- Built financial reports and charts for budget tracking and cost analysis.  
-- Automated calculations with Excel formulas and slicers.  
-- [View Project Folder →](./Financial-Data-Insights)
+## 📈 Key Findings
+*(You can summarize your main insights here — e.g., higher cancellations for long lead time or no-deposit bookings.)*
 
 ---
 
-## 📊 Sample Visuals
-
-*(You can add screenshots of your dashboards or graphs here)*  
-![Sample Dashboard](./images/sample-dashboard.png)
-
----
-
-## 📈 Learning & Goals
-
-I’m continuously improving my skills in:
-- Advanced SQL queries & joins  
-- Machine learning for data-driven predictions  
-- Dashboard design and storytelling
+## 🧠 Conclusion & Recommendations
+- Highlight what the hotel management can do to reduce cancellations.
+- Suggest data-driven improvements (e.g., incentives for early bookings, flexible pricing, or deposit policies).
 
 ---
 
-## 🏁 How to Explore
-
-1. Browse each project folder for datasets, notebooks, and visuals.  
-2. Read the project-specific `README.md` files for detailed explanations.  
-3. Reach out if you’d like to collaborate or discuss insights!
-
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](Your LinkedIn URL)  
-- 🐦 [Twitter](Your Twitter, optional)  
-- 🌐 [Portfolio Website](Your Website)  
+## 💻 Tools & Libraries
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Scikit-learn (if predictive modeling is included)
 
 ---
 
-> “Without data, you're just another person with an opinion.” — W. Edwards Deming
+## 📁 Project Structure
 
----
 
-⭐ **If you like my work, consider starring this repo!** ⭐
+
+
 
