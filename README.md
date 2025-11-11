@@ -1,6 +1,6 @@
 # 📊 Gaurav's Analytics Portfolio
 
-# [Project 1: 🏨 Hotel Booking & Cancellation Analysi]()
+# [Project 1: 🏨 Hotel Booking & Cancellation Analysis]()
 
 This is my first project I did for my Analytics Protfolio, where I build a recommendation system for a Hotel Bookings and Cancelations dataset.
 
