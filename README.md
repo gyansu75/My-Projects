@@ -80,3 +80,15 @@ This is my first project I did for my Analytics Protfolio, where I build a recom
 
 
 
+
+## ✍️ Author
+**Your Name**  
+*Data Analytics Portfolio Project*  
+📧 [your.email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+
+
+
+
