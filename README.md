@@ -24,8 +24,8 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## 🎯 Problem Statement
 - What are the key factors that lead to hotel booking cancellations?
-- How do customer demographics, booking channels, and lead time affect cancellations?
-- Can we predict the likelihood of a booking being canceled?
+- How to reduce cancellation rates and promote revenue generation?
+- Assistance to hotels in making pricing and marketing decisions?
 
 ---
 
@@ -42,6 +42,11 @@ The analysis of hotel booking cancellations as well as other factors that have n
 - Special requests and previous cancellations
 
 ---
+## Hypothesis
+
+1. Higher prices leads to more cancellations.
+2. Customers tend to cancel their booking when there is a longer waiting period for reservation confirmation.
+3. The majority of Clients are booking through offline modes which tend to increase the cancellation due to pay on arrival.
 
 ## 🧹 Data Exploration & Cleaning
 ### Steps:
@@ -59,6 +64,8 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## 🔍 Data Analysis & Insights
 ### Exploratory Analysis:
 - Booking and cancellation distribution.
+- ![Alt Text](images/plot1.png)
+
 - Cancellations by hotel type, month, and lead time.
 - Impact of deposit type and market segment.
 - Relationship between special requests and cancellations.
